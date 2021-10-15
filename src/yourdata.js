@@ -22,9 +22,9 @@ export default {
     //Line 1 For Header
     "Code",
     //Line 2 For Header
-    "Learn,",
+    "Learn",
     //Line 3 For Header
-    "Repeat",
+    "Coffee",
   ],
   //   Header Paragraph
   headerParagraph:
@@ -43,11 +43,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "Creative Front-End Developer offering 4+ years of experience providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "Music is an un-removable part of my life : ) plus walking & hanging out with my friends, also being free in all parts of my life is kinda passion of my life so don't ever try to get it from me",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "So let's connect with me on Linkedin & drop your first message to become my new friend",
   aboutImage:
     "https://avatars.githubusercontent.com/u/42252572?s=400&u=ffddff6c90fecd9e08940641a7e2de575b79bdc1&v=4",
 
@@ -61,7 +61,7 @@ export default {
     {
       img: htmlIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Deep knowledge of pure ,",
     },
     {
       img: cssIcon,
@@ -104,19 +104,8 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
-    {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
-    },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
-    },
-    {
-      img: instagramIcon,
-      url: "https://www.instagram.com/",
-    },
+    { img: githubIcon, url: "https://github.com/E-RROR" },
+
   ],
 
   // End Contact Section ---------------
