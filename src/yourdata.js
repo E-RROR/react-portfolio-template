@@ -49,7 +49,7 @@ export default {
   aboutParaThree:
     "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
   aboutImage:
-    "https://media-exp1.licdn.com/dms/image/C4D03AQFtLj9zCCLJ2A/profile-displayphoto-shrink_800_800/0/1634192615595?e=1639612800&v=beta&t=4xjkMhNiZtLXKV4sbDPKc1ICGhA0YKbovIsh9wD9wAk",
+    "https://media-exp1.licdn.com/dms/image/C4D03AQFtLj9zCCLJ2A/profile-displayphoto-shrink_200_200/0/1634192615595?e=1639612800&v=beta&t=4xjkMhNiZtLXKV4sbDPKc1ICGhA0YKbovIsh9wD9wAk",
 
   //   End About Section ---------------------
 
