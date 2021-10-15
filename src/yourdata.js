@@ -20,11 +20,11 @@ export default {
   name: "Sina (cina)",
   headerTagline: [
     //Line 1 For Header
-    "Living life",
+    "Code",
     //Line 2 For Header
-    "Code Products,",
+    "Learn,",
     //Line 3 For Header
-    "Learning",
+    "Repeat",
   ],
   //   Header Paragraph
   headerParagraph:
