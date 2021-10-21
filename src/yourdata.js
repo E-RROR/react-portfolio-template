@@ -43,7 +43,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Creative Front-End Developer offering 4+ years of experience providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.",
+    "Creative Front-End Developer offering 3+ years of experience providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.",
   aboutParaTwo:
     "Music is an un-removable part of my life : ) plus walking & hanging out with my friends, also being free in all parts of my life is kinda passion of my life so don't ever try to get it from me",
   aboutParaThree:
