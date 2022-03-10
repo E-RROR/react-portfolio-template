@@ -41,12 +41,10 @@ const Header = () => {
           </Fade>
           <Fade bottom>
             <a
-              href={`mailto:${
-                data.contactEmail ? data.contactEmail : "hello@cina.cool"
-              }`}
+              href={'https://calendly.com/cinaa/meet-sina'}
               className="primary-btn"
             >
-              CONNECT WITH ME
+              MEETING WITH ME
             </a>
           </Fade>
         </div>
