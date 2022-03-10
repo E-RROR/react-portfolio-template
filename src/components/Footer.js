@@ -12,7 +12,7 @@ const Footer = () => {
             <h2>{data.contactSubHeading}</h2>
           </Fade>
           <a className="email-link" href={`mailto:${data.contactEmail}`}>
-            {data.contactEmail}
+            calendly.com/cinaa/meet-sina
           </a>
           <div className="social-icons">
             {data.social.map((socialLink, index) => (
